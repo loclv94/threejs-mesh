@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build-examples",
+  "outputDirectory": "example/bundle",
+  "installCommand": "npm install"
+}
